@@ -4,3 +4,4 @@
 - **city:** Bologna, Italy
 - **food:** spaghetti
 - **hobby:** music
+- **color:** blue
